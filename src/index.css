@@ -1,0 +1,18 @@
+@import url("https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@0;1&display=swap");
+@import "tailwindcss";
+
+body {
+  font-family: "DM Serif Display", serif;
+}
+
+.fs-5 {
+  @apply text-[clamp(16px,2vw,20px)];
+}
+
+.card-btn {
+  @apply border rounded-md px-3 py-1 border-white/50 bg-[#df8d2f] hover:bg-[#f99615] transition;
+}
+
+.select-btn {
+  @apply flex-1 border rounded-md py-1 px-1 text-center hover:bg-white/30 cursor-pointer transition duration-300;
+}

@@ -1,0 +1,75 @@
+{
+  "ice-creams": [
+    {
+      "name": "Bal Badem",
+      "image": "/ice-14.png",
+      "price": 25.0
+    },
+    {
+      "name": "Çikolata Fırtınası",
+      "image": "/ice-1.png",
+      "price": 20.0
+    },
+    {
+      "name": "Vanilya Düşleri",
+      "image": "/ice-6.png",
+      "price": 22.5
+    },
+    {
+      "name": "Mango Serinliği",
+      "image": "/ice-4.png",
+      "price": 28.0
+    },
+    {
+      "name": "Karamel Dalgalanması",
+      "image": "/ice-9.png",
+      "price": 32.0
+    },
+    {
+      "name": "Fıstık Rüyası",
+      "image": "/ice-5.png",
+      "price": 34.0
+    },
+    {
+      "name": "Limon Ferahlığı",
+      "image": "/ice-7.png",
+      "price": 21.0
+    },
+    {
+      "name": "Böğürtlen Keyfi",
+      "image": "/ice-3.png",
+      "price": 27.5
+    },
+    {
+      "name": "Kavun Serinliği",
+      "image": "/ice-11.png",
+      "price": 26.0
+    },
+    {
+      "name": "Çilek Tutkusu",
+      "image": "/ice-12.png",
+      "price": 23.0
+    },
+    {
+      "name": "Kahveli Rüya",
+      "image": "/ice-15.png",
+      "price": 30.0
+    },
+    {
+      "name": "Frambuaz Coşkusu",
+      "image": "ice-8.png",
+      "price": 29.5
+    },
+
+    {
+      "name": "Kivi Baharı",
+      "image": "/ice-13.png",
+      "price": 26.5
+    },
+    {
+      "name": "Yaban Mersini Esintisi",
+      "image": "/ice-10.png",
+      "price": 31.0
+    }
+  ]
+}
